@@ -2,7 +2,7 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: ghcr.io/fransiouz/tydom2mqtt:latest
+image: ghcr.io/fransiouz/tydom2mqtt
 #image: fransiouz/tydom2mqtt
 version: latest
 slug: tydom2mqtt
